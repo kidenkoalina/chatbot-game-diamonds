@@ -1,0 +1,1043 @@
+{
+  "intents": [
+    {
+      "intent": "byly_pouzite_klice",
+      "examples": [
+        {
+          "text": "Byly pouzite klice?"
+        },
+        {
+          "text": "Dvere otevreli pomoci klice?"
+        },
+        {
+          "text": "Pouzili klice?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "co-bylo-ukradeno",
+      "examples": [
+        {
+          "text": "Co bylo ukradeno?"
+        },
+        {
+          "text": "Co ukradli?"
+        },
+        {
+          "text": "Co zmizlo?"
+        },
+        {
+          "text": "Co zmiznulo?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "co-se-stalo",
+      "examples": [
+        {
+          "text": "Co mi musete rict?"
+        },
+        {
+          "text": "Co se stalo?"
+        },
+        {
+          "text": "Co se tu stalo?"
+        },
+        {
+          "text": "Co se tu udalo?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "jak_dovnitr",
+      "examples": [
+        {
+          "text": "Jak se dostali dovnitr?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "kde",
+      "examples": [
+        {
+          "text": "kde"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "kde_byl",
+      "examples": [
+        {
+          "text": "Kde jsi byl?"
+        },
+        {
+          "text": "Kde jste byl?"
+        },
+        {
+          "text": "Kde jste byl vcera vecer?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "kde_najdu",
+      "examples": [
+        {
+          "text": "Kde je?"
+        },
+        {
+          "text": "Kde muzu jeho najit?"
+        },
+        {
+          "text": "Kde můžu najit?"
+        },
+        {
+          "text": "Kde najdu Leo?"
+        },
+        {
+          "text": "Kde najdu Marka?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "kde_schovane_prsteny",
+      "examples": [
+        {
+          "text": "Kde jsou schovane prsteny?"
+        },
+        {
+          "text": "Kde jste je schoval?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "kdo_ma_klice",
+      "examples": [
+        {
+          "text": "Kdo má klice?"
+        },
+        {
+          "text": "Kdo měl klice?"
+        },
+        {
+          "text": "Kdo mohl otevrit dvere?"
+        },
+        {
+          "text": "Kdo vlastni klice?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "leo_vedel_o_prstenech",
+      "examples": [
+        {
+          "text": "Leo vedel o prstenech"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "mark_vedel_o_prstenech",
+      "examples": [
+        {
+          "text": "Mark věděl o dodávce prstenů?"
+        },
+        {
+          "text": "Věděl Mark o prstenech?"
+        },
+        {
+          "text": "Věděl Mark, že musejí dovézt prsteny?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "podekovani",
+      "examples": [
+        {
+          "text": "Děkuji"
+        },
+        {
+          "text": "Dekuju"
+        },
+        {
+          "text": "Děkuju"
+        },
+        {
+          "text": "Dik"
+        },
+        {
+          "text": "Dík"
+        },
+        {
+          "text": "Díky"
+        },
+        {
+          "text": "thx"
+        }
+      ]
+    },
+    {
+      "intent": "pozdrav",
+      "examples": [
+        {
+          "text": "ahoj"
+        },
+        {
+          "text": "ahojky"
+        },
+        {
+          "text": "cau"
+        },
+        {
+          "text": "čau"
+        },
+        {
+          "text": "dobré ráno"
+        },
+        {
+          "text": "dobry den"
+        },
+        {
+          "text": "dobrý den"
+        },
+        {
+          "text": "dobrý večer"
+        },
+        {
+          "text": "nazdar"
+        },
+        {
+          "text": "nazdár"
+        },
+        {
+          "text": "zdarek"
+        },
+        {
+          "text": "zdárek"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "proc_odesel_pozdeji",
+      "examples": [
+        {
+          "text": "Proc jste odesel pozdeji?"
+        },
+        {
+          "text": "Proc jste se zdrzel?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "provokace",
+      "examples": [
+        {
+          "text": "Čí to je vina?"
+        },
+        {
+          "text": "Kdo je vinen?"
+        },
+        {
+          "text": "Kdo ukradl diamanty?"
+        },
+        {
+          "text": "Kdo za to může?"
+        },
+        {
+          "text": "To jsi byl ty?"
+        },
+        {
+          "text": "Ukradl jsi ty diamanty?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "start",
+      "examples": [
+        {
+          "text": "start"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "videl_neco_podezreleho",
+      "examples": [
+        {
+          "text": "Máte nějaká podezření?"
+        },
+        {
+          "text": "Nezdalo se vám něco podezřelé?"
+        },
+        {
+          "text": "Podezříváte někoho?"
+        },
+        {
+          "text": "Viděl jste něco podezřelého?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "dukaz",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "důkaz",
+          "synonyms": [
+            "dukaz"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "evidence",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Leo vedel o prstenech",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mark nevěděl kde leží prsteny",
+          "synonyms": [
+            "Mark nevedel o prstenech",
+            "nevěděl o prstenech"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mark ukradl",
+          "synonyms": [
+            "Leo ukradl diamanty"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "object",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "diamanty",
+          "synonyms": [
+            "diamant"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dveře",
+          "synonyms": [
+            "dvere"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "klíče",
+          "synonyms": [
+            "klice, klici"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "zlaté prsteny",
+          "synonyms": [
+            "zlato"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "person",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "já",
+          "synonyms": [
+            "ja",
+            "jsem"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Leo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "lupič",
+          "synonyms": [
+            "lupic, zločinec, zlocinec"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mark",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pole",
+          "synonyms": [
+            "policista"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Nastavení módu hry (Pole, Leo, Mark, Dukaz)",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "(@person && !input.text.contains(' ')) || (@dukaz && !input.text.contains(' '))",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_10_1604581812231",
+      "previous_sibling": "node_2_1604844608674"
+    },
+    {
+      "type": "standard",
+      "parent": "node_3_1604522179857",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#kde_najdu",
+      "dialog_node": "node_10_1604860550417",
+      "previous_sibling": "node_7_1604841441670"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Vůbec nic podezřelého jsem nezaznamenal."
+              },
+              {
+                "text": "Ne, vůbec nic."
+              },
+              {
+                "text": "Ani ne, všechno bylo jako obvykle."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1604844608674",
+      "conditions": "#videl_neco_podezreleho && !($mode == \"Pole\")",
+      "dialog_node": "node_10_1604860965244",
+      "previous_sibling": "node_5_1604844514349"
+    },
+    {
+      "type": "folder",
+      "title": "Leo",
+      "conditions": "$mode == \"Leo\"",
+      "dialog_node": "node_2_1604522199733",
+      "previous_sibling": "node_6_1604522190682"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Včera jsem celý den pracoval."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1604522199733",
+      "conditions": "#kde_byl",
+      "dialog_node": "node_2_1604582548855"
+    },
+    {
+      "type": "folder",
+      "title": "Dukaz",
+      "conditions": "$mode == \"dukaz\"",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1604842929524",
+      "previous_sibling": "Vítejte"
+    },
+    {
+      "type": "folder",
+      "title": "chit chat",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1604844608674",
+      "previous_sibling": "node_2_1606141789001"
+    },
+    {
+      "type": "standard",
+      "title": "Provokace",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nevím, ale já jsem to určitě nebyl!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#provokace",
+      "dialog_node": "node_2_1606141789001",
+      "previous_sibling": "node_2_1604842929524"
+    },
+    {
+      "type": "folder",
+      "title": "Pole Policista",
+      "conditions": "$mode == \"Pole\"",
+      "digress_in": "not_available",
+      "dialog_node": "node_3_1604522179857",
+      "previous_sibling": "node_10_1604581812231"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Jo,  myslim si, že dvere otevřeli klíčem."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1604522179857",
+      "conditions": "#byly_pouzite_klice",
+      "dialog_node": "node_3_1604841122917",
+      "previous_sibling": "node_6_1604584428006"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Včera jsem byl celý den v klenotnictví. Večer jsem odešel domu kolem 17:00 hodin. Leo ještě tu nějakou chvíli zůstal."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1604522190682",
+      "conditions": "#kde_byl",
+      "dialog_node": "node_3_1604841516071"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Včera večer museli dovézt nové prsteny z velmi vzácného zlata. Zdržel jsem se abych je schoval. Jsou dražší než jakékoli diamanty. Velké štěstí, že je neukradli."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1604522199733",
+      "conditions": "#proc_odesel_pozdeji",
+      "dialog_node": "node_3_1604841746327",
+      "previous_sibling": "node_2_1604582548855"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Presne tak! Gratuluji <3 "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1604842929524",
+      "conditions": "@evidence:(Mark ukradl) && (@evidence:(Leo vedel o prstenech) ||  @evidence:(Mark nevěděl kde leží prsteny))",
+      "dialog_node": "node_3_1604843001407"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nacházíte se uvnitř klenotnictví. Vedle vás stojí policista. Jmenuje se Pole."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Ve hře se můžete bavit s různými postavami. Abyste se bavili s konkrétní postavou, napište její jméno do chatu."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": " Zkuste začit rozhovor s policistou jménem Pole a zjistěte **co se stalo**."
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Napište *Pole*."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#start",
+      "dialog_node": "node_4_1604520994008",
+      "previous_sibling": "node_2_1604522199733"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To vám neřeknu."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1604522199733",
+      "conditions": "#kde_schovane_prsteny",
+      "dialog_node": "node_5_1604841876725",
+      "previous_sibling": "node_3_1604841746327"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Dobrý den."
+              },
+              {
+                "text": "Dobrý den,  čím můžu pomoci?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1604844608674",
+      "conditions": "#pozdrav",
+      "dialog_node": "node_5_1604844514349"
+    },
+    {
+      "type": "folder",
+      "title": "Mark",
+      "conditions": "$mode == \"Mark\"",
+      "dialog_node": "node_6_1604522190682",
+      "previous_sibling": "node_3_1604522179857"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "**POLE: ** Klasika, někdo v noci vyloupil klenotnictví. Překvapivé ale je, že dveře nejsou vylomené."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1604522179857",
+      "conditions": "#co-se-stalo",
+      "dialog_node": "node_6_1604584181047"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Naštěstí ukradli jenom diamanty."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1604522179857",
+      "conditions": "#co-bylo-ukradeno",
+      "dialog_node": "node_6_1604584428006",
+      "previous_sibling": "node_6_1604584181047"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Věděl, že je musejí dovézt. Ale nebyl tu se mnou, když jsem je schovával."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1604522199733",
+      "conditions": "#mark_vedel_o_prstenech",
+      "dialog_node": "node_6_1604842020353",
+      "previous_sibling": "node_5_1604841876725"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Klíče mají jenom Leo a Mark, prodavači."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1604522179857",
+      "conditions": "#kdo_ma_klice",
+      "dialog_node": "node_7_1604841441670",
+      "previous_sibling": "node_3_1604841122917"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Něco bude na tom, že ukradli diamanty, ale ne prsteny."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1604522179857",
+      "conditions": "#videl_neco_podezreleho",
+      "dialog_node": "node_9_1604861242920",
+      "previous_sibling": "node_10_1604860550417"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bavíte se s Pole (policista)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1604581812231",
+      "context": {
+        "mode": "Pole"
+      },
+      "conditions": "@person:Pole",
+      "dialog_node": "response_4_1604581894924"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Mark je tady, stačí na něj zavolat."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1604860550417",
+      "conditions": "@person:Mark",
+      "dialog_node": "response_4_1604860727004",
+      "previous_sibling": "response_7_1604860681455"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bavíte se s Markem (2. prodavač)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1604581812231",
+      "context": {
+        "mode": "Mark"
+      },
+      "conditions": "@person:Mark",
+      "dialog_node": "response_6_1604582036241",
+      "previous_sibling": "response_9_1604582011385"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Leo je někde tady, stačí na něj zavolat."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1604860550417",
+      "conditions": "@person:Leo",
+      "dialog_node": "response_7_1604860681455"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bavíte se s Leo (1. prodavač)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1604581812231",
+      "context": {
+        "mode": "Leo"
+      },
+      "conditions": "@person:Leo",
+      "dialog_node": "response_9_1604582011385",
+      "previous_sibling": "response_4_1604581894924"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Jste v mode \"důkaz\". Zkuste napsat kdo vyloupil klenotnictví a proč si to myslíte."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1604581812231",
+      "context": {
+        "mode": "dukaz"
+      },
+      "conditions": "@dukaz",
+      "dialog_node": "response_9_1604842853478",
+      "previous_sibling": "response_6_1604582036241"
+    },
+    {
+      "type": "standard",
+      "title": "Start hry",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Před tebou je krátká detektivní hra."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Jsi detektiv."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "**Někdo v noci vyloupil klenotnictví.**"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Zjistěte kdo to byl."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Napiš *start* ;) "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Vítejte"
+    },
+    {
+      "type": "standard",
+      "title": "V ostatních případech",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nerozumím. Zkuste přeformulovat váš dotaz."
+              },
+              {
+                "text": "Mohl byste se zeptat ještě jednou a trochu jinak? Neporozuměl jsem."
+              },
+              {
+                "text": "Zcela jsem neporozuměl tomu, na co se ptáte."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "V ostatních případech",
+      "previous_sibling": "node_4_1604520994008",
+      "disambiguation_opt_out": true
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Vyberte prosím:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nic z výše uvedeného"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Vyberte prosím:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Diamonds-game",
+  "language": "cs",
+  "description": ""
+}
