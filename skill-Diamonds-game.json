@@ -325,7 +325,11 @@
           "type": "synonyms",
           "value": "Mark ukradl",
           "synonyms": [
-            "Leo ukradl diamanty"
+            "Byl to Mark",
+            "Mark ukradl",
+            "Mark ukradl diamanty",
+            "Mark vyloupil klenotnictví",
+            "Vyloupil klenotnictví Mark"
           ]
         }
       ],
@@ -538,7 +542,7 @@
           {
             "values": [
               {
-                "text": "Jo,  myslim si, že dvere otevřeli klíčem."
+                "text": "Jo,  myslím si, že dvere otevřeli klíčem."
               }
             ],
             "response_type": "text",
@@ -597,7 +601,7 @@
           {
             "values": [
               {
-                "text": "Presne tak! Gratuluji <3 "
+                "text": "Přesně tak! Gratuluji! Přece kdyby Mark věděl, kde leží tyhle drahé zlaté prsteny, určitě by ukradl je místo diamantů."
               }
             ],
             "response_type": "text",
